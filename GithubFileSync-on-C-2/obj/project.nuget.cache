@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtH6SXjbIiXEJhXCIngFMt/rUI/xY69xA+3uZGxUb/ASBMow/uz0Tb4gSy3KL/9uWlNLYyllOxf4zdeQeqfRNA==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\GithubReleaseSync-C-\\GithubFileSync-on-C-2\\GithubFileSync-on-C-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kusu\\.nuget\\packages\\litjson\\0.18.0\\litjson.0.18.0.nupkg.sha512",
+    "C:\\Users\\kusu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://api.github.com/repos/Shiroiame-Kusu/Kusunoki/releases/78744668",
+  "assets_url": "https://api.github.com/repos/Shiroiame-Kusu/Kusunoki/releases/78744668/assets",
+  "upload_url": "https://uploads.github.com/repos/Shiroiame-Kusu/Kusunoki/releases/78744668/assets{?name,label}",
+  "html_url": "https://github.com/Shiroiame-Kusu/Kusunoki/releases/tag/Ver2.3.0-RC1",
+  "id": 78744668,
+  "author": {
+    "login": "Shiroiame-Kusu",
+    "id": 42903464,
+    "node_id": "MDQ6VXNlcjQyOTAzNDY0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/42903464?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Shiroiame-Kusu",
+    "html_url": "https://github.com/Shiroiame-Kusu",
+    "followers_url": "https://api.github.com/users/Shiroiame-Kusu/followers",
+    "following_url": "https://api.github.com/users/Shiroiame-Kusu/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Shiroiame-Kusu/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Shiroiame-Kusu/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Shiroiame-Kusu/subscriptions",
+    "organizations_url": "https://api.github.com/users/Shiroiame-Kusu/orgs",
+    "repos_url": "https://api.github.com/users/Shiroiame-Kusu/repos",
+    "events_url": "https://api.github.com/users/Shiroiame-Kusu/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Shiroiame-Kusu/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "node_id": "RE_kwDOHo0W1s4EsYxc",
+  "tag_name": "Ver2.3.0-RC1",
+  "target_commitish": "main",
+  "name": "Ver 2.3.0-RC1",
+  "draft": false,
+  "prerelease": false,
+  "created_at": "2022-09-15T05:27:18Z",
+  "published_at": "2022-09-30T23:36:03Z",
+  "assets": [
+
+  ],
+  "tarball_url": "https://api.github.com/repos/Shiroiame-Kusu/Kusunoki/tarball/Ver2.3.0-RC1",
+  "zipball_url": "https://api.github.com/repos/Shiroiame-Kusu/Kusunoki/zipball/Ver2.3.0-RC1",
+  "body": ""
+}
